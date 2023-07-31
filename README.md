@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-  <title>Gautam Chandrakant Warvatar -- Resume </title> 
+ <!-- <title>Gautam Chandrakant Warvatar -- Resume </title>  -->
 </head>
 <body style="background-color: rgb(248,236,236)">
     <header style="background-color: #e8caca"> <img src="Gautam (2021) .jpg" width="300" height="300" align="right" alt="My photo">
