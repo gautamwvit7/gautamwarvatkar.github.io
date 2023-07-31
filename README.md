@@ -10,7 +10,6 @@
         <br>
         <h1 style="align-self: center">Gautam Chandrakant Warvatkar</h1>
     </header>
-
     <main>
         <br>
         <div>
@@ -60,7 +59,6 @@
             </table>
             <br>
         </div>
-
         <div>
             <section>
                 <h2>VOLUNTEER EXPERIENCE OR LEADERSHIP</h2>
@@ -72,10 +70,8 @@
             </section>
         </div>
     </main>
-
     <textarea id="feedback" name="feedback" placeholder="Provide your feedback on my resume here. Thank you for visiting." cols="185" rows="5"></textarea>
     <button onclick="gettextareainput()">Submit</button>
-
     <footer>
         <div style="background-color: #d3c1c1">
             <h2 style="color: #000000">Details</h2>
