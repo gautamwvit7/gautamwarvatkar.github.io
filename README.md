@@ -7,9 +7,12 @@
 </head>
 <body style="background-color: rgb(248, 236, 236)">
     <header style="background-color: #e8caca">
+        <h1 style="align-self: center">Gautam Chandrakant Warvatkar</h1>
+        <br>
+        <br>
         <img src="Gautam (2021) .jpg" width="300" height="300" align="right" alt="My photo">
         <br>
-        <h1 style="align-self: center">Gautam Chandrakant Warvatkar</h1>
+        
     </header>
     <main>
         <br>
