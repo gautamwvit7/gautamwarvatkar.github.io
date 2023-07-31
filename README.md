@@ -61,7 +61,6 @@
                 <li>Management Volunteer, TeamQuark</li>
                 <li>Co-ordinator of Light and Sound, EPEC (Official Committee of VIT Pune)</li>
             </ul>
-            </span>
         </div>
     </main>
     <textarea id="feedback" name="feedback"
