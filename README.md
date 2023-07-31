@@ -54,13 +54,15 @@
 
             </tbody></table>
         <br>
-        </div>
+        <div>
+            <section>
             <h2>VOLUNTEER EXPERIENCE OR LEADERSHIP</h2>
             <ul>
                 <li>Publicity and Outreach Volunteer, EPEC (Official Committee of VIT Pune)</li>
                 <li>Management Volunteer, TeamQuark</li>
                 <li>Co-ordinator of Light and Sound, EPEC (Official Committee of VIT Pune)</li>
             </ul>
+            <section>
         </div>
     </main>
     <textarea id="feedback" name="feedback"
