@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- This is my resume, I'm going to build it up as I learn stuff -->
 <html lang="en">
 <head>
