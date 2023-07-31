@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Gautam Chandrakant Warvatar</title>
+  <title>Gautam Chandrakant Warvatar -- Resume </title> 
 </head>
 <body style="background-color: rgb(248,236,236)">
     <header style="background-color: #e8caca"> <img src="Gautam (2021) .jpg" width="300" height="300" align="right" alt="My photo">
@@ -22,8 +22,6 @@
     </ul>
     </div>
     </div>
-
-
     <section>
     <h2 >Objective</h2>
     <article>Seeking an opportunity to gain real-life experience and hands-on work in order to further develop my skills and broaden my understanding of the professional world.</article>
