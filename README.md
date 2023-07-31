@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- This is my resume, I'm going to build it up as I learn stuff -->
 <html lang="en">
 <head>
@@ -6,7 +5,7 @@
     <title>Gautam Chandrakant Warvatar</title>
 </head>
 <body style="background-color: rgb(248,236,236)">
-    <header style="background-color: #e8caca"> <img src="https://climate.copernicus.eu/sites/default/files/styles/hero_image_extra_large_2x/public/2023-07/iStock-1267333118.jpg?itok=1udeNtwZ" width="100%" height="500" alt="My photo">
+    <header style="background-color: #e8caca"> <img src="[https://climate.copernicus.eu/sites/default/files/styles/hero_image_extra_large_2x/public/2023-07/iStock-1267333118.jpg?itok=1udeNtwZ](https://drive.google.com/file/d/18jHtOLQKv_Uz99Oet1O_eKI7tRNSywtj/view?usp=sharing)" width="100%" height="500" alt="My photo">
         <br>
         <h1 style="align-self: center">Gautam Chandrakant Warvatkar</h1>
     </header>
