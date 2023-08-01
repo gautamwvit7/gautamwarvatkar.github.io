@@ -31,7 +31,6 @@
     </div>
     <div>
         <h2> How was your experience?</h2>
-
         <h5> Rating </h5>
         <select name="rating" id="Rating" >
             <option value="Excellent">Excellent</option>
@@ -43,7 +42,6 @@
     </div>
 </form>
 </div>
-
 <h3><a href="https://gautamwvit7.github.io/gautamwarvatkar.github.io/" target="main"> Resume </a></h3>
 </body>
 </html>
